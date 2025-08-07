@@ -1,4 +1,4 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./index-DqKChJ57.js","./InlineLoader-BjC5THcu.js","./ton-vendor-hTmWgCDw.js","./ton-assembly-2B6IldEA.js","./InlineLoader-BwYvx6j2.css","./monaco-editor-core-BNZEfIW9.js","./monaco-editor-core-GL-q52Lm.css","./index-CW3wO_9q.css"])))=>i.map(i=>d[i]);
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./index-B0OU2YuU.js","./InlineLoader-BjC5THcu.js","./ton-vendor-hTmWgCDw.js","./ton-assembly-2B6IldEA.js","./InlineLoader-BwYvx6j2.css","./monaco-editor-core-BNZEfIW9.js","./monaco-editor-core-GL-q52Lm.css","./index-CW3wO_9q.css"])))=>i.map(i=>d[i]);
 import{r as l,R as IB,j as $,B as $C,F as AE,g as BE,a as QE,d as fB,u as gE,E as IE,I as Og,b as CE,G as EE,T as DE,H as wE,P as FE}from"./InlineLoader-BjC5THcu.js";import{M as dQ,_ as NE}from"./monaco-editor-core-BNZEfIW9.js";import GE from"./index-B_TxVsj_.js";import{B as UE,s as mA,d as oE,u as iE,S as yE,T as RE}from"./ButtonLoader-DcfrJORU.js";import"./ton-vendor-hTmWgCDw.js";import"./ton-assembly-2B6IldEA.js";function sQ(){return sQ=Object.assign?Object.assign.bind():function(y){for(var F=1;F<arguments.length;F++){var E=arguments[F];for(var U in E)({}).hasOwnProperty.call(E,U)&&(y[U]=E[U])}return y},sQ.apply(null,arguments)}var bB=typeof globalThis<"u"?globalThis:typeof window<"u"?window:typeof global<"u"?global:typeof self<"u"?self:{};function HQ(y){return y&&y.__esModule&&Object.prototype.hasOwnProperty.call(y,"default")?y.default:y}var vg,Pg={exports:{}};/*!
   Copyright (c) 2018 Jed Watson.
   Licensed under the MIT License (MIT), see
@@ -750,7 +750,7 @@ These options help tailor the editor to your needs.`,target:'[aria-label="Open s
 • Customize settings for your workflow
 • Share your code with others
 
-Happy smart contract development! 🚀`,target:'[role="toolbar"]',placement:"bottom"}],yI=IB.lazy(()=>NE(()=>import("./index-DqKChJ57.js"),__vite__mapDeps([0,1,2,3,4,5,6,7]),import.meta.url)),ID=`#include "stdlib.fc";
+Happy smart contract development! 🚀`,target:'[role="toolbar"]',placement:"bottom"}],yI=IB.lazy(()=>NE(()=>import("./index-B0OU2YuU.js"),__vite__mapDeps([0,1,2,3,4,5,6,7]),import.meta.url)),ID=`#include "stdlib.fc";
 
 () recv_internal(int msg_value, cell in_msg_cell, slice in_msg) {
     var cs = in_msg_cell.begin_parse();
