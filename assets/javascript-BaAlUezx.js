@@ -1,4 +1,4 @@
-import{conf as t,language as e}from"./typescript-Ch-nhXKA.js";import"./monaco-editor-core-BNZEfIW9.js";/*!-----------------------------------------------------------------------------
+import{conf as t,language as e}from"./typescript-DN9LK-D4.js";import"./monaco-editor-core-CpJEhaGI.js";/*!-----------------------------------------------------------------------------
  * Copyright (c) Microsoft Corporation. All rights reserved.
  * Version: 0.52.2(404545bded1df6ffa41ea0af4e8ddb219018c6c1)
  * Released under the MIT license
