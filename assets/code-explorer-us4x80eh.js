@@ -1,5 +1,5 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./index-hbq4URLs.js","./Badge-Cq_6lN_S.js","./ton-vendor-hTmWgCDw.js","./ton-assembly-2B6IldEA.js","./Badge-BL0bkq_N.css","./monaco-editor-core-BNZEfIW9.js","./monaco-editor-core-GL-q52Lm.css","./index-CW3wO_9q.css"])))=>i.map(i=>d[i]);
-import{r as l,R as IB,j as $,B as $C,F as AE,g as BE,a as QE,d as fB,u as gE,E as IE,I as Og,b as CE,G as EE,T as DE,H as wE,P as FE}from"./Badge-Cq_6lN_S.js";import{M as dQ,_ as NE}from"./monaco-editor-core-BNZEfIW9.js";import GE from"./index-DRJx8Nkx.js";import{B as UE,s as mA,d as oE,u as iE,S as yE,T as RE}from"./ButtonLoader-CoXl10DL.js";import"./ton-vendor-hTmWgCDw.js";import"./ton-assembly-2B6IldEA.js";function sQ(){return sQ=Object.assign?Object.assign.bind():function(y){for(var F=1;F<arguments.length;F++){var E=arguments[F];for(var U in E)({}).hasOwnProperty.call(E,U)&&(y[U]=E[U])}return y},sQ.apply(null,arguments)}var bB=typeof globalThis<"u"?globalThis:typeof window<"u"?window:typeof global<"u"?global:typeof self<"u"?self:{};function HQ(y){return y&&y.__esModule&&Object.prototype.hasOwnProperty.call(y,"default")?y.default:y}var vg,Pg={exports:{}};/*!
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./index-BLtmOT40.js","./Badge-B2Ij_EdE.js","./ton-vendor-BkcVSvwD.js","./ton-assembly-XOBA6fiM.js","./ton-sandbox-uER9kMRK.js","./Badge-BL0bkq_N.css","./monaco-editor-core-BNZEfIW9.js","./monaco-editor-core-GL-q52Lm.css","./index-CW3wO_9q.css"])))=>i.map(i=>d[i]);
+import{r as l,R as IB,j as $,B as $C,F as AE,g as BE,a as QE,d as fB,u as gE,E as IE,I as Og,b as CE,G as EE,T as DE,H as wE,P as FE}from"./Badge-B2Ij_EdE.js";import{M as dQ,_ as NE}from"./monaco-editor-core-BNZEfIW9.js";import GE from"./index-CoYxNHyv.js";import{B as UE,s as mA,d as oE,u as iE,S as yE,T as RE}from"./ButtonLoader-CC6sXqeU.js";import"./ton-vendor-BkcVSvwD.js";import"./ton-assembly-XOBA6fiM.js";import"./ton-sandbox-uER9kMRK.js";function sQ(){return sQ=Object.assign?Object.assign.bind():function(y){for(var F=1;F<arguments.length;F++){var E=arguments[F];for(var U in E)({}).hasOwnProperty.call(E,U)&&(y[U]=E[U])}return y},sQ.apply(null,arguments)}var bB=typeof globalThis<"u"?globalThis:typeof window<"u"?window:typeof global<"u"?global:typeof self<"u"?self:{};function HQ(y){return y&&y.__esModule&&Object.prototype.hasOwnProperty.call(y,"default")?y.default:y}var vg,Pg={exports:{}};/*!
   Copyright (c) 2018 Jed Watson.
   Licensed under the MIT License (MIT), see
   http://jedwatson.github.io/classnames
@@ -750,7 +750,7 @@ These options help tailor the editor to your needs.`,target:'[aria-label="Open s
 • Customize settings for your workflow
 • Share your code with others
 
-Happy smart contract development! 🚀`,target:'[role="toolbar"]',placement:"bottom"}],yI=IB.lazy(()=>NE(()=>import("./index-hbq4URLs.js"),__vite__mapDeps([0,1,2,3,4,5,6,7]),import.meta.url)),ID=`#include "stdlib.fc";
+Happy smart contract development! 🚀`,target:'[role="toolbar"]',placement:"bottom"}],yI=IB.lazy(()=>NE(()=>import("./index-BLtmOT40.js"),__vite__mapDeps([0,1,2,3,4,5,6,7,8]),import.meta.url)),ID=`#include "stdlib.fc";
 
 () recv_internal(int msg_value, cell in_msg_cell, slice in_msg) {
     var cs = in_msg_cell.begin_parse();
